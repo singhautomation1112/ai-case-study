@@ -1,0 +1,27 @@
+# Core UI
+streamlit
+
+# Data handling & ML
+pandas
+scikit-learn
+matplotlib
+
+# Test data generation
+faker
+
+# Automation frameworks
+selenium
+webdriver-manager
+playwright
+
+# Agent orchestration
+langchain
+openai   # or azure-openai if you use Azure
+tiktoken # tokenizer support for LLMs
+
+# Backend (for agent API)
+fastapi
+uvicorn
+
+# Optional: vector database for memory
+faiss-cpu   # or pinecone-client, weaviate-client depending on choice
