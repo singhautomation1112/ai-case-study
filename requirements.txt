@@ -25,3 +25,8 @@ uvicorn
 
 # Optional: vector database for memory
 faiss-cpu   # or pinecone-client, weaviate-client depending on choice
+
+#code
+langchain==0.2.11
+openai==1.35.13
+
