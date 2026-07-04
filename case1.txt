@@ -1,1 +1,1 @@
-patient visits hospital and tells doctor he has a pain in the stomach
+patient visits hospital and tells doctor he has a pain in the stomach and then doctor asks for the tests
